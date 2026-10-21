@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I am a solution-oriented data analyst with over 2 years of experience transforming complex data into strategic and actionable insights. I am passionate about exploring and interpreting information to drive business decisions, identify growth opportunities, and promote continuous improvements.</p>
+<p align="left">I am a Senior Systems Analyst with 6+ years of experience in enterprise systems, application support, and systems integration. I focus on building scalable cloud infrastructure, automating operations, and improving the reliability and performance of mission-critical systems.</p>
 
 ###
 
